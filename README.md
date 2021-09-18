@@ -7,6 +7,9 @@
 ![discord badge](https://img.shields.io/badge/Discord-%3C3-5865F2?logo=discord&style=flat)
 ![docker badge](https://img.shields.io/badge/Docker-%3C3-2496ED?logo=docker&style=flat)
 ![drone badge](https://img.shields.io/badge/Drone-%3C3-212121?logo=drone&style=flat)
+![go badge](https://img.shields.io/badge/Golang-%3C3-00ADD8?logo=go&style=flat)
+![google badge](https://img.shields.io/badge/Google-%3C3-4285F4?logo=gooogle&style=flat)
+![grafana badge](https://img.shields.io/badge/Grafana-%3C3-F46800?logo=grafana&style=flat)
 
 
 ![snake gif](https://github.com/lichtscheu/lichtscheu/blob/output/github-contribution-grid-snake.svg)
