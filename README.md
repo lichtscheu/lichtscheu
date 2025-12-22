@@ -7,4 +7,5 @@
 ![deno badge](https://img.shields.io/badge/Deno-<3-18181b?logo=deno&style=for-the-badge&labelColor=18181b)
 ![hetzner badge](https://img.shields.io/badge/Hetzner-<3-18181b?logo=hetzner&style=for-the-badge&labelColor=18181b)
 ![phpstorm badge](https://img.shields.io/badge/PHPStorm-%20<3-18181b?logo=phpstorm&style=for-the-badge&labelColor=18181b)
+![linux badge](https://img.shields.io/badge/Linux-%20<3-18181b?logo=linux&style=for-the-badge&labelColor=18181b)
 [![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b)](https://whyphp.dev)
