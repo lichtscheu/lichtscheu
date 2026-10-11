@@ -11,7 +11,6 @@
 ![gemini badge](https://img.shields.io/badge/Gemini-<3-18181b?logo=googlegemini&style=for-the-badge&labelColor=18181b)
 ![claude badge](https://img.shields.io/badge/Claude-<3-18181b?logo=anthropic&style=for-the-badge&labelColor=18181b)
 ![docker badge](https://img.shields.io/badge/Docker-<3-18181b?logo=docker&style=for-the-badge&labelColor=18181b)
-![n8n badge](https://img.shields.io/badge/n8n-<3-18181b?logo=n8n&style=for-the-badge&labelColor=18181b)
 ![github actions badge](https://img.shields.io/badge/GitHub_Actions-<3-18181b?logo=githubactions&style=for-the-badge&labelColor=18181b)
 ![selfhosted badge](https://img.shields.io/badge/Self--Hosted-<3-18181b?logo=serverfault&style=for-the-badge&labelColor=18181b)
 ![coolify badge](https://img.shields.io/badge/Coolify-<3-18181b?style=for-the-badge&labelColor=18181b)
