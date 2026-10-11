@@ -4,7 +4,7 @@
 ![laravel_badge](https://img.shields.io/badge/Laravel-<3-18181b?logo=laravel&logoSize=auto&style=for-the-badge&labelColor=18181b)
 ![javascript_badge](https://img.shields.io/badge/JavaScript-</3-18181b?logo=javascript&logoSize=auto&style=for-the-badge&labelColor=18181b)
 ![typescript_badge](https://img.shields.io/badge/TypeScript-</3-18181b?logo=typescript&style=for-the-badge&labelColor=18181b)
-![deno badge](https://img.shields.io/badge/Deno-<3-18181b?logo=deno&style=for-the-badge&labelColor=18181b)
+![deno badge](https://img.shields.io/badge/Deno-will%20miss%20u-18181b?logo=deno&style=for-the-badge&labelColor=18181b)
 ![hetzner badge](https://img.shields.io/badge/Hetzner-<3-18181b?logo=hetzner&style=for-the-badge&labelColor=18181b)
 ![cloudflare badge](https://img.shields.io/badge/Cloudflare-<3-18181b?logo=cloudflare&style=for-the-badge&labelColor=18181b)
 ![phpstorm badge](https://img.shields.io/badge/PHPStorm-%20<3-18181b?logo=phpstorm&style=for-the-badge&labelColor=18181b)
